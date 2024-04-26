@@ -1,8 +1,8 @@
 # UK-House-Price-Predictive-Model-and-Brexit-Analysis
-This project aims to analyze UK house prices and build a predictive model to estimate house prices using machine learning techniques. Additionally, the impact of Brexit on house prices is explored through data analysis and visualization.
+This project aims to analyze UK house prices and build a predictive model to estimate house prices using machine learning algorithms. Additionally, the impact of Brexit on house prices is explored through data analysis and visualization.
 
 # Dataset
-The dataset used in this project is "UK_Housing_Data.csv". It contains information about UK property sales, including various features such as price, property type, location, and transaction date.
+The dataset used in this project is "UK_Housing_Data.csv". It contains information about UK property sales, including various features such as price, property type, location, and transaction date. This dataset can be found on Kaggle.
 
 # Data Preprocessing
 Corrected data types and values in certain columns.
@@ -22,8 +22,7 @@ Root Mean Squared Error (RMSE)
 R-squared (R2) Score
 # Files
 UK_Housing_Data.csv: Dataset used in the analysis.
-house_price_prediction.ipynb: Jupyter notebook containing the code for data preprocessing, EDA, and model building.
-README.md: This file.
+predictive_model_and_analysis.py: Python script for building, evaluating predictive models, and analyzing the impact of Brexit.
 # Libraries Used
 pandas
 numpy
@@ -40,8 +39,5 @@ sh
 Copy code
 pip install -r requirements.txt
 Run the Jupyter notebook house_price_prediction.ipynb to reproduce the analysis and build predictive models.
-# Acknowledgments
-The dataset used in this project was obtained from source.
-Special thanks to [Institute/Company Name] for the guidance and support.
-# License
-This project is licensed under the MIT License.
+# Acknowledgment
+The dataset used in this project was obtained from Kaggle.
