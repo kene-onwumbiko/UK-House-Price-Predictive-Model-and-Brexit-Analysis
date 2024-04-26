@@ -15,29 +15,31 @@ Analyzed the impact of Brexit on house prices using visualizations.
 Three different regression models were trained and evaluated to estimate house prices:
 
 Linear Regression Model
+
 KNeighbors Regressor Model
+
 SGD Regressor Model
 # Evaluation Metrics
-Root Mean Squared Error (RMSE)\n
+Root Mean Squared Error (RMSE)
+
 R-squared (R2) Score
 # Files
 UK_Housing_Data.csv: Dataset used in the analysis.
+
 predictive_model_and_analysis.py: Python script for building, evaluating predictive models, and analyzing the impact of Brexit.
 # Libraries Used
 pandas
+
 numpy
+
 matplotlib
+
 scikit-learn
+
 category_encoders
 # Usage
-Clone this repository:
-sh
-Copy code
-git clone https://github.com/your_username/UK-House-Price-Predictive-Model-and-Brexit-Analysis.git
-Install the required libraries:
-sh
-Copy code
-pip install -r requirements.txt
-Run the Jupyter notebook house_price_prediction.ipynb to reproduce the analysis and build predictive models.
+Install the required libraries: Copy code 'pip install -r requirements.txt'
+
+Run the python file 'predictive_model_and_analysis.py' to reproduce the analysis and build predictive models.
 # Acknowledgment
 The dataset used in this project was obtained from Kaggle.
