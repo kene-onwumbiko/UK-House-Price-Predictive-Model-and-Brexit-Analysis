@@ -18,7 +18,7 @@ Linear Regression Model
 KNeighbors Regressor Model
 SGD Regressor Model
 # Evaluation Metrics
-Root Mean Squared Error (RMSE)
+Root Mean Squared Error (RMSE)/n
 R-squared (R2) Score
 # Files
 UK_Housing_Data.csv: Dataset used in the analysis.
