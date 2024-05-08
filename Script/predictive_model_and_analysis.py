@@ -19,7 +19,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # import the dataset
-housing = pd.read_csv(r"C:\Users\keneo\OneDrive\Documents\Scripting in Data Analysis Coursework 2\UK_Housing_Data.csv")
+housing = pd.read_csv(r"C:\Users\keneo\Downloads\Project Dataset\UK_Housing_Data.csv")
  
  
 # (A.) Identify and  address any issues in the dataset. Then conduct exploratory data analysis on the dataset
